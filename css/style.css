@@ -14,7 +14,7 @@ body {
 
 /* Navegacion */
 header {
-    background-image: url("/images/cafe.jpg");
+    background-image: url("../images/cafe.jpg");
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
@@ -183,7 +183,7 @@ input[type=submit] {
 
 /* Contacto */
 #Contacto {
-    background-image: url("/images/granos_cafe.png");
+    background-image: url("../images/granos_cafe.png");
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
